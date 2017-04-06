@@ -1,0 +1,11 @@
+C:\Users\Niyuz\Desktop\Trabajo Practico Programacion II -Laboratorio II\TrabajoPractico\TrabajoPractico\bin\Debug\TrabajoPractico.exe.config
+C:\Users\Niyuz\Desktop\Trabajo Practico Programacion II -Laboratorio II\TrabajoPractico\TrabajoPractico\bin\Debug\TrabajoPractico.exe
+C:\Users\Niyuz\Desktop\Trabajo Practico Programacion II -Laboratorio II\TrabajoPractico\TrabajoPractico\bin\Debug\TrabajoPractico.pdb
+C:\Users\Niyuz\Desktop\Trabajo Practico Programacion II -Laboratorio II\TrabajoPractico\TrabajoPractico\bin\Debug\Clases.dll
+C:\Users\Niyuz\Desktop\Trabajo Practico Programacion II -Laboratorio II\TrabajoPractico\TrabajoPractico\bin\Debug\Clases.pdb
+C:\Users\Niyuz\Desktop\Trabajo Practico Programacion II -Laboratorio II\TrabajoPractico\TrabajoPractico\obj\Debug\TrabajoPractico.csprojResolveAssemblyReference.cache
+C:\Users\Niyuz\Desktop\Trabajo Practico Programacion II -Laboratorio II\TrabajoPractico\TrabajoPractico\obj\Debug\TrabajoPractico.Form1.resources
+C:\Users\Niyuz\Desktop\Trabajo Practico Programacion II -Laboratorio II\TrabajoPractico\TrabajoPractico\obj\Debug\TrabajoPractico.Properties.Resources.resources
+C:\Users\Niyuz\Desktop\Trabajo Practico Programacion II -Laboratorio II\TrabajoPractico\TrabajoPractico\obj\Debug\TrabajoPractico.csproj.GenerateResource.Cache
+C:\Users\Niyuz\Desktop\Trabajo Practico Programacion II -Laboratorio II\TrabajoPractico\TrabajoPractico\obj\Debug\TrabajoPractico.exe
+C:\Users\Niyuz\Desktop\Trabajo Practico Programacion II -Laboratorio II\TrabajoPractico\TrabajoPractico\obj\Debug\TrabajoPractico.pdb

@@ -1,0 +1,5 @@
+C:\Users\Niyuz\Desktop\Trabajo Practico Programacion II -Laboratorio II\TrabajoPractico\Clases\bin\Debug\Clases.dll
+C:\Users\Niyuz\Desktop\Trabajo Practico Programacion II -Laboratorio II\TrabajoPractico\Clases\bin\Debug\Clases.pdb
+C:\Users\Niyuz\Desktop\Trabajo Practico Programacion II -Laboratorio II\TrabajoPractico\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\Niyuz\Desktop\Trabajo Practico Programacion II -Laboratorio II\TrabajoPractico\Clases\obj\Debug\Clases.dll
+C:\Users\Niyuz\Desktop\Trabajo Practico Programacion II -Laboratorio II\TrabajoPractico\Clases\obj\Debug\Clases.pdb
